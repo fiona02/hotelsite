@@ -1,6 +1,6 @@
 # Motel
 
-A hotel booking web application built using MERN stack. Motel : A hotel booking web application. I took inspiration from airbnb design and tried to recreate a hotel booking web app using MERN stack. I took it beyond from just a hotel booking app to able to host a house/hotel also. Simplifying user interactivity and making the app seamless both book a hotel and host a hotel was the key goal of this project.
+A hotel booking web application built using MERN stack. Motel : A hotel booking web application. I took inspiration from airbnb design and tried to recreate a hotel booking web app using MERN stack. I took it beyond from just a hotel booking app to able to host a house/hotel also. 
 
 Live version : [Motel](https://motel-frontend.vercel.app/)
 
